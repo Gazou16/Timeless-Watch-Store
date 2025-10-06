@@ -1,5 +1,4 @@
 # Timeless Watch Store
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Gazou16/Timeless-Watch-Store)
 
 This repository contains the backend service for the Timeless Watch Store, a comprehensive management system built with Spring Boot. The application is designed with a modular architecture, separating concerns into distinct subdomains for customer relations, human resources, and inventory management.
 
